@@ -1,4 +1,4 @@
 - 👋🤵 Hi, I'm Tomáš Bokor, but you can just call me Thomas or Conway-hash
-- 👀📚 Studying Computer Science at MUNI FI
+- 👀📚 Studying Computer Science at MUNI FI (Brno Czech Republic)
 - 🌱👨‍🎓 I’m currently learning C (trying not to put a memory leak in my head).
 - 📫📧 If you want to talk, contact me at tomasbokor.dev@gmail.com
