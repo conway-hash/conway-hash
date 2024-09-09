@@ -2,4 +2,4 @@
 - 👀📚 Studying Computer Science at MUNI FI (Brno Czech Republic)
 - 🌱👨‍🎓 I’m currently learning C (trying not to put a memory leak in my head).
 - 🏗️🔧 Currently working on AI assistants at SLSP, whilst in free time, building web apps with NEXT.JS 14
-- 📫📧 If you want to talk, contact me at tomasbokor.dev@gmail.com
+- 📫📧 If you want to talk, contact me at contact@tomasbokor.com
