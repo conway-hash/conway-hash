@@ -1,5 +1,5 @@
 - 👋🤵 Hi, I'm Tomáš Bokor, but you can just call me Thomas or Conway-hash
 - 👀📚 Studying Computer Science at MUNI FI (Brno Czech Republic)
-- 🌱👨‍🎓 I’m currently learning Java and R.
-- 🏗️🔧 Currently working on AI assistants at SLSP, whilst in free time, building web apps with NEXT.JS 14
+- 🌱👨‍🎓 I’m currently learning Servers, LANs and VPNs.
+- 🏗️🔧 Currently working on AI assistants at SLSP, whilst in free time, building web apps.
 - 📫📧 If you want to talk, contact me at contact@tomasbokor.com
